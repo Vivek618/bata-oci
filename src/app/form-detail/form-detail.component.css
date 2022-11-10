@@ -1,0 +1,18 @@
+.card {
+  margin: 20px;
+}
+
+.col-md-6 {
+  flex: 0 0 auto;
+  width: 48%;
+  float: left;
+  margin: 10px 1%;
+}
+
+.btn-sub {
+  display: block;
+  margin: auto;
+  width: 150px;
+  font-weight: bold;
+}
+

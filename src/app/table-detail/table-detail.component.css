@@ -1,0 +1,17 @@
+table {
+  margin-top: 50px;
+  border: solid 1px gray;
+}
+
+thead {
+  background-color: rgb(224, 253, 253);
+  font-weight: bold;
+  color: #000;
+}
+
+td, th {
+  border: solid 1px gray;
+}
+.backBtn, a {
+  text-decoration: none;
+}

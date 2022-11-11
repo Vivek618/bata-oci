@@ -1,5 +1,14 @@
 .card {
-  margin: 20px;
+  display: block;
+  margin: auto;
+  width: 600px;
+  height: 400px;
+  background-color: rgb(224, 253, 253);
+  margin-top: 50PX;
+}
+
+button {
+  top: 50px;
 }
 
 .col-md-6 {
@@ -15,4 +24,14 @@
   width: 150px;
   font-weight: bold;
 }
+
+ .homeBtn {
+  text-align: center;
+}
+
+.backBtn, a {
+  text-decoration: none;
+}
+
+
 
